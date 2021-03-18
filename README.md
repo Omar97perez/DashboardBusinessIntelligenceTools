@@ -1,6 +1,6 @@
-# Prueba de Dashboard de Diferentes Herramientas
+# Dashboard of different Business Intelligence Tools
 
-[Clickar para ver mejor la explicación](https://omar97perez.github.io/DashboardTableauGCCE/)
+[Clickar para ver mejor la explicación](https://omar97perez.github.io/DashboardBusinessIntelligenceTools/)
 
 Herramientas:
   - Tableau.
